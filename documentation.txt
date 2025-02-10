@@ -1,3 +1,3 @@
 ajout nouvelle fonctionalite
-ajout de ma doc suite doc branch
+Hello baby boy!
 ajout test etant sur suite-doc-2
